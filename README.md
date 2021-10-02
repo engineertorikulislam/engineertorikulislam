@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Torikul Islam</h1>
 
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Web and Mobile Application Developer from Bangladesh.</h3>
 
 
+<p align="center">
+I'm a 3rd-year student pursuing BSc in Computer Science 🎓 from the Green University of Bangladesh 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from  I also love to guide and mentor newbies 👨🏻‍💻. I'm working currently on Flutter Android and IOS Mobile Application 🕸️ and working on my Data Structures and Algorithms skills🤓.  👨🏻‍💻As a competitive programmer, I solve daily problems in the different problem-solving websites like Hacker Rank, Codechef, Codeforces as well as ICPC programming contest.🤓👨🏻‍💻
+</p>  
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=engineertorikulislam&label=Profile%20views&color=0e75b6&style=flat" alt="engineertorikulislam" />
