@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineertorikulislam&show_icons=true&locale=en&layout=compact" alt="engineertorikulislam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineertorikulislam&show_icons=true&locale=en" alt="engineertorikulislam" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=engineertorikulislam&show_icons=true&locale=en" alt="engineertorikulislam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineertorikulislam&" alt="engineertorikulislam" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=engineertorikulislam&" alt="engineertorikulislam" /></p>
