@@ -37,14 +37,20 @@ I'm a 3rd-year student pursuing BSc in Computer Science 🎓 from the Green Univ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/engineertorikul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineertorikul" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/engineertorikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engineertorikulislam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15252454/md-torikul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15252454/md-torikul-islam" height="30" width="40" /></a>
+
+<a href="https://twitter.com/engineertorikul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineertorikul" height="30" width="40" /></a>
+
+ 
 <a href="https://fb.com/engineertorikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engineertorikulislam" height="30" width="40" /></a>
+ 
 <a href="https://instagram.com/engineertorikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engineertorikulislam" height="30" width="40" /></a>
-<a href="https://medium.com/@torikulislam.green.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@torikulislam.green.cse" height="30" width="40" /></a>
+ 
 <a href="https://www.codechef.com/users/torikulislambd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="torikulislambd" height="30" width="40" /></a>
+ 
 <a href="https://www.hackerrank.com/torikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="torikulislam" height="30" width="40" /></a>
+ 
 <a href="https://codeforces.com/profile/torikulislam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="torikulislam" height="30" width="40" /></a>
 </p>
 
