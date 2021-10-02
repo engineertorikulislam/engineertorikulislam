@@ -16,6 +16,21 @@ I'm a 3rd-year student pursuing BSc in Computer Science 🎓 from the Green Univ
 </p>
 
 
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center">
+  
+
+<a href="mailto: torikulislam.green.cse@gmail.com">
+ <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torikulislam.green.cse@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/engineertorikulislam/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engineertorikulislam/">
+</a>
+ <a href="https://twitter.com/engineertorikul">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/engineertorikul"/>
+</a>
+</p>
 
 
 
